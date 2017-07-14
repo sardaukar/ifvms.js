@@ -19,7 +19,7 @@ TODO:
 
 */
 
-var AST = require( '../common/ast.js' ),
+var AST = require( './ast-zvm.js' ),
 Variable = AST.Variable,
 Opcode = AST.Opcode,
 Stopper = AST.Stopper,

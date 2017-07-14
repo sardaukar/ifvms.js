@@ -19,7 +19,7 @@ TODO:
 
 */
 
-var AST = require( '../common/ast.js' );
+var AST = require( './ast-zvm.js' );
 
 module.exports.disassemble = function()
 {
